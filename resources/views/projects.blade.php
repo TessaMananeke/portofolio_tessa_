@@ -11,7 +11,7 @@
             <!-- Project 1 -->
             <div class="project-card fade-in">
                 <div class="project-image">
-                    <img src="{{ asset('images/project1.png')}}" alt="Simple-Web">
+                    <img src="{{ secure_asset('images/project1.png')}}" alt="Simple-Web">
                 </div>
                 <div class="project-info">
                     <h3 class="project-title">Simple Web</h3>
@@ -32,7 +32,7 @@
             <!-- Project 2 -->
             <div class="project-card fade-in">
                 <div class="project-image">
-                    <img src="{{ asset('images/project2.jpg')}}" alt="Recipe Website">
+                    <img src="{{ secure_asset('images/project2.jpg')}}" alt="Recipe Website">
                 </div>
                 <div class="project-info">
                     <h3 class="project-title">MasakAsYik - Recipe Website</h3>
@@ -53,7 +53,7 @@
             <!-- Project 3 -->
             <div class="project-card fade-in">
                 <div class="project-image">
-                    <img src="{{ asset('images/project3.png')}}" alt="Fruit Game">
+                    <img src="{{ secure_asset('images/project3.png')}}" alt="Fruit Game">
                 </div>
                 <div class="project-info">
                     <h3 class="project-title">Agile Fruit Game</h3>
@@ -75,7 +75,7 @@
             <!-- Project 4 -->
             <div class="project-card fade-in">
                 <div class="project-image">
-                    <img src="{{ asset('images/project4.png')}}" alt="Static Website">
+                    <img src="{{ secure_asset('images/project4.png')}}" alt="Static Website">
                 </div>
                 <div class="project-info">
                     <h3 class="project-title">News Portal - Static Website</h3>
@@ -96,7 +96,7 @@
             <!-- Project 5 -->
             <div class="project-card fade-in">
                 <div class="project-image">
-                    <img src="{{ asset('images/project5.png')}}" alt="Dynamic Web">
+                    <img src="{{ secure_asset('images/project5.png')}}" alt="Dynamic Web">
                 </div>
                 <div class="project-info">
                     <h3 class="project-title">To-Do List - Dynamic Web</h3>

@@ -24,7 +24,7 @@
             </div>
             
             <div class="about-image fade-in delay-1">
-                <img src="{{ asset('images/aboutme.jpg')}}" alt="Profile Photo">
+                <img src="{{ secure_asset('images/aboutme.jpg')}}" alt="Profile Photo">
             </div>
         </div>
     </div>
